@@ -103,4 +103,8 @@ A predictive modeling project to estimate flight ticket prices based on airline,
 - Regression & Tree-based modeling
 
 
+## Sample results: (check the PDF File for more graphs)
+
+![image](https://github.com/user-attachments/assets/42234da5-a77c-47c4-abd7-2acecfbbedcb)
+
 
